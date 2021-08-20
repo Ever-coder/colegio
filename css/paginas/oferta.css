@@ -1,0 +1,84 @@
+.tituloO{
+    margin: 14px;
+    font-size: 30px;
+    font-weight: 900;
+    color: #240046;
+    text-shadow: -2px -2px 1px white, 2px 2px 1px white, -2px 2px 1px white, 2px -2px 1px white;
+    width: 90%;
+}
+
+.hrO{
+
+    border-bottom: 3px solid #2E055A;
+}
+
+.iconO{
+    color: #2E055A;
+    font-size: 40px;
+}
+
+.imgOuno{
+    max-width: 400px;
+    width: 100%;
+    align-self: center;
+}
+
+.ab{
+    margin-bottom: 20px;
+}
+
+.rowbox{
+    margin-top: 10PX;
+    margin-bottom: 20px;
+}
+
+.text{
+    font-weight: bold;
+}
+
+.colorEduT{
+    background-color: #B5A0CB;
+    color: #3c096c;
+    font-size: 20px;
+}
+
+.colorEdu{
+    color: #10002b;
+}
+
+.FondoFT{
+    background-color: #b392ac;
+}
+
+.FondoF{
+    background-color: #d1b3c4;
+}
+
+.FondoFI{
+    background-color: #f8f7ff;
+}
+
+.FondoFBE{
+    background-color: #735d78;
+    border-color: black;
+    color: white;
+}
+
+.FondoFBC{
+    background-color: #b392ac;
+    border-color: black;
+    color: white;
+}
+
+@media only screen and (max-width: 204px){
+    .text{
+        font-size: 17px;
+    }
+
+}
+@media only screen and (max-width: 174px){
+    .text{
+        font-size: 15px;
+    }
+
+}

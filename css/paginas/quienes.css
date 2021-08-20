@@ -1,0 +1,61 @@
+
+#body-quienes{
+	background: #FCFCFF;
+}
+
+.boxm{
+
+	background-color: #f3d5a5;
+}
+
+.parra{
+	text-align: justify;
+	margin: 14px;
+	font-size: 18px;
+}
+
+.texttitu{
+	margin-top: 5px;
+	font-family: optima;
+	font-size: 30px;
+	text-shadow: 2px 2px 2px ;
+}
+
+.hrM{
+
+  border-bottom: 3px solid #2E055A;
+}
+
+.imgV{
+	box-shadow: 0px 4px 15px 0px #c05299;
+	border-radius: 15px;
+}
+
+.iconV{
+	margin-top: 15px;
+	color: #2E055A;
+	font-size: 25px;
+}
+.divV{
+	margin-bottom: 40px;
+}
+
+.divM{
+	max-height: 300px;
+}
+
+.colorM{
+	background-color: rgba(93, 76, 161, 0.8) !important;
+}
+
+.colorMB{
+	background-color: #e7c6ff !important;
+}
+
+.colorV{
+	background-color: rgba(93, 76, 161, 0.8) !important;
+}
+
+.colorVB{
+	background-color: #e7c6ff !important;
+}
